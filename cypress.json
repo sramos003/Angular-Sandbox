@@ -1,0 +1,7 @@
+{
+  "includeShadowDom": true,
+  "defaultCommandTimeout": 8000,
+  "testFiles": "**/*.spec.ts",
+  "ignoreTestFiles": ["*.js", "*.md"],
+  "supportFile": "./cypress/support/support.ts"
+}
